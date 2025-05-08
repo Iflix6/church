@@ -89,7 +89,7 @@ chmod 755 uploads/
 3. Navigate through the different modules using the sidebar menu
 4. Use the admin panel for system configuration and management
 
-## ⛏️ Built Using <a name = "built_using"></a>
+## ⛏️ Built Using <a name = "PHP, JS, HTML, CSS, MYSQL"></a>
 
 - [PHP](https://www.php.net/) - Server-side scripting
 - [MySQL](https://www.mysql.com/) - Database
@@ -99,7 +99,7 @@ chmod 755 uploads/
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- Your Name - Initial work
+- Israel Inakhe - Initial work
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
